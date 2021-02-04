@@ -59,5 +59,4 @@ void loop() {
   delay(500);
   mqttClient.loop();
 }
-~~~
 
